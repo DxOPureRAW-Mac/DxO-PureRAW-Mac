@@ -1,7 +1,7 @@
 # DxO PureRAW – AI-Powered RAW Processing for Cleaner Photos on Mac
 
 <p align="center">
-  <img src="https://xtmac.cn/wp-content/uploads/2025/02/pureraw.webp" width="150" alt="DxO PureRAW icon"/>
+  <img src="https://xtmac.cn/wp-content/uploads/2025/02/pureraw.webp" width="350" alt="DxO PureRAW icon"/>
 </p>
 
 <p align="center">
